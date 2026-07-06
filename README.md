@@ -1,5 +1,9 @@
 # 🛡️ Spartan 7 Challenge (7 Days of Discipline)
 
+<p align="center">
+  <img src="public/logo.jpg" alt="Spartan 7 Challenge Logo" width="160" style="border-radius: 20px;" />
+</p>
+
 [![React 19](https://img.shields.io/badge/React-19.0.0-blue.svg?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-blue.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF.svg?logo=vite&logoColor=white)](https://vite.dev/)
