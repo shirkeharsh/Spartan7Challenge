@@ -1,0 +1,18 @@
+{
+  "short_name": "7 Days Discipline",
+  "name": "7 Days of Discipline Challenge",
+  "description": "Transform your lifestyle through an intense 7-day habit and fitness challenge.",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#08090c",
+  "theme_color": "#8b5cf6",
+  "display": "standalone",
+  "orientation": "portrait"
+}

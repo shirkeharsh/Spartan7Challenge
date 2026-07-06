@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">7 Days of Discipline</string>
+    <string name="title_activity_main">7 Days of Discipline</string>
+    <string name="package_name">com.discipline.master</string>
+    <string name="custom_url_scheme">com.discipline.master</string>
+</resources>
